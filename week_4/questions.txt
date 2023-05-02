@@ -1,0 +1,29 @@
+predict the output:
+
+39. will not work as planned since the while statement ends in a ";" which will lead to a timeout.
+
+40. will return the number: 10
+
+41. Nothing since there is a 'break' statement
+
+42. will return the number: 30
+
+43. will return 2   4  6   8   10
+
+44. will give three lines of $9999
+
+find the errors:
+
+45.
+A) incrementing the sum of num1 and num2 is incorrect. The ++ operator can only be applied to a variable, so this code will not compile
+B) The variable "again" has not been initialized, There is a missing quotation mark in the second output statement. The last output does not have an ending quotation mark and the variable to be input goes outside of the line.
+
+46.
+A) There is a semicolon at the end of the while loop condition, which stops the loop, The last output does not have an ending quotation mark, and the variable to be input goes outside of the line.
+B) The variable “total” has not been initialized, so it may contain any value. There is a misplaced quotation mark in the last output statement, which causes a syntax error.
+
+47.
+
+A) There is a missing semicolon at the end of the do-while loop
+
+B) The variable total has not been initialized, The while loop is missing curly braces
