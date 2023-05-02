@@ -1,0 +1,63 @@
+
+
+1. Computers can do many different jobs because they can be programmed
+
+2. The job of the CPU is to fetch instructions, and carry out the operations commanded
+by the instructions, and produce some outcome or resultant information.
+
+3. Internally, the CPU consists of the arithmetic logic unit (ALU) and the control unit.
+
+4. A(n) disk drive is an example of a secondary storage device.
+
+5. The two general categories of software are operating systems and application software.
+
+6. A program is a set of instructions.
+
+7. Since computers can't be programmed in natural human language, algorithms must be
+written in a(n) programming language.
+
+8. Machine Language is the only language computers really process.
+
+9. High-Level languages are close to the level of humans in terms of readability.
+
+10. Low-Level languages are close to the level of the computer.
+
+11. A program's ability to run on several different types of computer systems is called
+
+portability.
+
+12. Words that have special meanings in a programming language are called Key
+
+words.
+
+13. Words or names defined by the programmer are called Programmer-defined symbols.
+
+14. Operators are characters or symbols that perform operations on one or more
+operands.
+
+15. Punctuation characters or symbols mark the beginning or end of programming
+statements or separate items in a list.
+
+16. Syntax.
+
+17.
+
+18.
+
+19.
+
+20. Input
+
+21. Output
+
+22.
+
+23.
+
+24.
+
+25. C) Random Access Memory
+
+26. B) Central Processing Unit
+
+27. C) Arithmetic Language Unit

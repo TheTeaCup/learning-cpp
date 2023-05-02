@@ -1,0 +1,47 @@
+27.
+A)
+
+ int freeze = 32, boil = 212;
+    freeze = 0;
+    boil = 100;
+    cout << freeze << endl << boil << endl;
+
+Would output freeze as 0 and boil as 100
+
+B)
+
+int x = 0, y = 2;
+    x = y * 4;
+    cout << x << endl << y << endl;
+
+Would output X as 8 and Y as 2
+
+C) cout << "I am the incredible";
+cout << "computing\nmachine";
+cout << "\nand I will\namaze\n";
+cout << "you. \n";
+
+Would output:
+I am the incrediblecomputing
+machine
+and I will
+amaze
+you.
+
+28.
+A) cout << "Be careful!\n";
+cout << "This might/n be a trick ";
+cout << "question.\n";
+
+Would output:
+Be careful!
+This might/n be a trickquestion.
+
+
+B) int a, x = 23;
+a = x % 2;
+cout << x << endl << a << endl;
+
+Would output:
+23
+1
